@@ -57,6 +57,8 @@ Click `OK` to add the cable. It will show up in the VoxYou main window.
 
 To show and setup your plugins double click their name and the plugin will be displayed.
 
+When you have finished setting up all cables and plugins, click `File` -> `Save` to save these settings.
+
 ### VoxYou MIDI setup
 
 If you're not using a MIDI device, you can skip this step.
@@ -109,6 +111,10 @@ If you want to send data to your MIDI controller when a trigger fires, for examp
 VoxYou will automatically start with Windows. You can disable this in your Task Manager.
 
 ![Don't start with windows](https://i.imgur.com/ODFtnsC.png)
+
+### Saving
+
+To get VoxYou to automatically load whatever you have configured, be it cables, plugins or MIDI triggers, you have to save using `File` -> `Save`, otherwise VoxYou will discard any unsaved changes on the next restart. This way you can reset your changes to the last saved configuration by restarting VoxYou and you can experiment without having to worry about overwriting your current settings.
 
 ## Why
 
