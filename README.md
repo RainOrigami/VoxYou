@@ -64,7 +64,7 @@ Press a button or move a slider on your MIDI device. The input will appear in th
 
 Select the plugin from the `VST Plugin control` dropdown and select the parameter you want to control from the list below.
 
-Depending on the input signal that you selected you can input a value to set or use toggle to switch between On (1) or Off (0). If you selected a slider or knob it will its positional value.
+Depending on the input signal that you selected you can input a value to set or use toggle to switch between On (1) or Off (0). If you selected a slider or knob it will use its positional value.
 
 Press `Add` to add and enable the trigger. You can bind the same input to multiple plugin parameters.
 
