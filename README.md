@@ -118,7 +118,7 @@ To get VoxYou to automatically load whatever you have configured, be it cables, 
 
 ## Why
 
-When you Google `VoiceMeeter effects` the most recommended way of using any effects with VoiceMeeter is to use Cantabile Lite, a Digital Audio Workstation that contains a ton of features for live performance and doesn't run in the background. It supports playback, instruments and all the snazz you need for your average music session.
+When you Google `VoiceMeeter effects` the most recommended way of using any effects with VoiceMeeter is to use Cantabile Lite, a Digital Audio Workstation that contains a ton of features for live performance and doesn't run in the background. It supports playback, instruments and all the snazz you need for your average music session, a lot of stuff that you don't need for just applying a noise filter to you microphone in VoiceMeeter.
 
 ![Cantabile Lite](https://i.imgur.com/goiIO8x.png)
 
