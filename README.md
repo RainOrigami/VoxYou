@@ -104,6 +104,12 @@ The `VoxYou MIDI Forward` device is capable of two-way data traffic and can be u
 
 If you want to send data to your MIDI controller when a trigger fires, for example to set LED colors, program them in VoiceMeeters MacroButtons, you can assign the same MIDI event in both VoxYou and VoiceMeeter.
 
+### Automatic startup
+
+VoxYou will automatically start with Windows. You can disable this in your Task Manager.
+
+![Don't start with windows](https://i.imgur.com/ODFtnsC.png)
+
 ## Why
 
 When you Google `VoiceMeeter effects` the most recommended way of using any effects with VoiceMeeter is to use Cantabile Lite, a Digital Audio Workstation that contains a ton of features for live performance and doesn't run in the background. It supports playback, instruments and all the snazz you need for your average music session.
