@@ -4,6 +4,13 @@ Lightweight VST host application for VoiceMeeter with MIDI support.
 
 Use VST effect plugins with VoiceMeeter without having to install a DAW like Canterbile or LiveProfessor. Use your MIDI input device to control your effects and VoiceMeeter at the same time.
 
+## Table of content
+
+- [Installation](#installation)
+- [First time setup](#first-time-setup)
+- [Usage](#usage)
+- [Why](#why)
+
 ## Installation
 
 ### Prerequisites
