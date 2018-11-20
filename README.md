@@ -122,3 +122,10 @@ The problem arises when you're trying to use your MIDI device in VoiceMeeter and
 If you tried to work around all the issues that arise when using MIDI and VST effects with VoiceMeeter you would end up with three additional programs you'd have to keep in your autostart, and one of those usually can not be minimized to the system tray and occupies valuable real-estate in your taskbar and starts maximized with Windows.
 
 For this reason VoxYou was born. It combines the ASIO patching from VoiceMeeter with a super lightweight VST host that does nothing except for running VST effects, and a virtual MIDI device to use your MIDI controller in VoiceMeeter too. And its got a tray icon to stay out of your way.
+
+## Special thanks to
+
+- [un4seen](http://www.un4seen.com/) for a great audio library that does ASIO, VST and MIDI all in one
+- [Mathew Sachin](https://github.com/MathewSachin) for the wrapper
+- [Tobias Erichsen](http://www.tobias-erichsen.de/software/virtualmidi.html) for an easy to use virtual midi driver
+- [vb-audio](https://www.vb-audio.com/Voicemeeter/) for not implementing VST capabilities into VoiceMeeter
