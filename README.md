@@ -43,11 +43,11 @@ When you start VoxYou for the first time you will be prompted to select an ASIO 
 
 Next, setup your inputs, outputs and plugins. To do this, go to `File` -> `Add cable` and use the provided dialog to setup the cable.
 
-![Cable setup](https://i.imgur.com/Jxp9p9U.png)
+![Cable setup](https://i.imgur.com/SLsErLm.png)
 
 In `Input` select the first (eg. left) channel of your input and specify how many channels you're using (mono, stereo, ...). If you're not sure, keep the default value of 2. The corresponding input channels will be listed in the box below.
 
-In `VST Effects` check all effects you want to use and, if necessary, use the up and down buttons to change their position. Audio is sent to the selected plugins from the top to the bottom.
+In `VST Effects` use the `+` button to add all effects you want to use and, if necessary, use the up and down buttons to change their position. Audio is sent to the selected plugins from the top to the bottom.
 
 In `Output` select the first (eg. left) channel of your primary output. If you're not sure, select the same name that you selected for `Input`. The corresponding output channels will be listed in the box on the right.
 
@@ -61,15 +61,15 @@ When you have finished setting up all cables and plugins, click `File` -> `Save`
 
 ### VoxYou MIDI setup
 
-If you're not using a MIDI device, you can skip this step.
-
-In the menu `MIDI Device` select your MIDI device from the dropdown. This will create a new virtual MIDI device called `VoxYou MIDI Forward`.
+If you're not using a MIDI device or don't want to setup any keyboard shortcuts, you can skip this step.
 
 Setup your MIDI triggers for your VST plugins by opening `MIDI Device` -> `MIDI Mapping`.
 
+Check all the MIDI devices that you want to use. Any checked device will receive a virtual MIDI device called `{MidiDeviceName} VoxYou Forward` for use in VoiceMeeter.
+
 ![MIDI Mapping](https://i.imgur.com/Gv1EKiy.png)
 
-Press a button or move a slider on your MIDI device. The input will appear in the `MIDI signals` list. Select the input that you want to use.
+Press a button or move a slider on your MIDI device or press a key combination on your keyboard. The input will appear in the `MIDI signals` list. Select the input that you want to use.
 
 Select the plugin from the `VST Plugin control` dropdown and select the parameter you want to control from the list below.
 
