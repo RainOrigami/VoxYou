@@ -1,3 +1,7 @@
+# Alternative
+
+If you do not care for MIDI support I would recommend that you use [LightHost](https://github.com/rolandoislas/LightHost) by rolandoislas instead, it is more stable and cross-platform.
+
 # VoxYou
 
 Lightweight VST host application for VoiceMeeter with MIDI support.
