@@ -26,6 +26,18 @@ Use VST effect plugins with VoiceMeeter without having to install a DAW like Can
 
 The virtualMIDI driver is only required if you're using a MIDI device for controlling the VST plugins. It is bundled with [loopMidi](http://www.tobias-erichsen.de/software/loopmidi.html) or [rtpMIDI](http://www.tobias-erichsen.de/software/rtpmidi.html). If you're not sure which one you need, install loopMIDI. Running loopMIDI or starting loopMIDI with Windows is not required.
 
+## Install and hotfix
+
+To install, run the `VoxYou_Setup.msi` file. After installation, navigate to the folder you installed VoxYou in (eg `C:\Program Files\CodeFreak\VoxYou`) and unzip the hotfix.zip there, replacing all existing files.
+
+The hotfix provides:
+
+- Fixes crash on startup when VST directory not found
+- Fixes VST not saving certain parameters
+- Fixes multiple of the same VST overwriting each others settings
+- Adds configuration for custom VST search paths
+- Changes forward midi device name to be "VY YourDevice Forward"
+
 ## First time setup
 
 ### VoiceMeeter setup
