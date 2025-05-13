@@ -1,3 +1,9 @@
+# Orphaned
+
+This tool is no longer developed or supported by me, sorry. There are alternatives (see below).
+
+Because I have switched off Windows completely, I no longer require these Windows audio tools. Intead I use pipewire and its supporting tools to accomplish more than I ever could on Windows.
+
 # Alternative
 
 If you do not care for MIDI support I would recommend that you use [LightHost](https://github.com/rolandoislas/LightHost) by rolandoislas instead, it is more stable and cross-platform.
